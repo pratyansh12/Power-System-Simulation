@@ -11,8 +11,8 @@ It simulates both black start and islanded scenarios, providing a detailed under
 
 
 Folder	Description
-Diesel_Generator/	Simulink model and configuration for the diesel generator subsystem.
-Isolated Battery Charger/	Contains the model for the soft-charging circuit used in the BESS, along with an isolated bi-directional battery charging circuit
-Load/	Load models used to test the microgrid under different operating conditions.
-Micro_Grid/	The main system-level microgrid model integrating all subsystems.
-UPS/	Online UPS model functioning as the Battery Energy Storage System (BESS).
+Diesel_Generator - Simulink model and configuration for the diesel generator subsystem.
+Isolated Battery Charger - Contains the model for the soft-charging circuit used in the BESS, along with an isolated bi-directional battery charging circuit
+Load - Load models used to test the microgrid under different operating conditions.
+Micro_Grid - The main system-level microgrid model integrating all subsystems.
+UPS - Online UPS model functioning as the Battery Energy Storage System (BESS).
